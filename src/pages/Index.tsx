@@ -3,7 +3,6 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import HowItWorks from "@/components/HowItWorks";
 import AboutChatbot from "@/components/AboutChatbot";
-import Sponsors from "@/components/Sponsors";
 import Testimonials from "@/components/Testimonials";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
@@ -16,7 +15,6 @@ const Index = () => {
       <Hero />
       <HowItWorks />
       <AboutChatbot />
-      <Sponsors />
       <Testimonials />
       <PropertyChatbot />
       <Contact />
