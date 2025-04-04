@@ -25,10 +25,10 @@ const Contact = () => {
           <h3 className="text-lg font-semibold mb-2">Call Us</h3>
           <p className="text-realestate-charcoal mb-4">Our agents are available 24/7</p>
           <a 
-            href="tel:+9715000000" 
+            href="tel:+971508540902" 
             className="text-realestate-blue hover:text-realestate-navy font-medium transition-colors"
           >
-            +971 50 000 0000
+            +971 50 854 0902
           </a>
         </motion.div>
         
@@ -45,10 +45,10 @@ const Contact = () => {
           <h3 className="text-lg font-semibold mb-2">Email Us</h3>
           <p className="text-realestate-charcoal mb-4">Send us your inquiries</p>
           <a 
-            href="mailto:info@propertyfinder.ae" 
+            href="mailto:khanaimanshowkat@gmail.com" 
             className="text-realestate-blue hover:text-realestate-navy font-medium transition-colors"
           >
-            info@propertyfinder.ae
+            khanaimanshowkat@gmail.com
           </a>
         </motion.div>
         
@@ -65,10 +65,10 @@ const Contact = () => {
           <h3 className="text-lg font-semibold mb-2">WhatsApp</h3>
           <p className="text-realestate-charcoal mb-4">Chat with us directly</p>
           <a 
-            href="https://wa.me/9715000000" 
+            href="https://wa.me/971508540902" 
             className="text-realestate-blue hover:text-realestate-navy font-medium transition-colors"
           >
-            +971 50 000 0000
+            +971 50 854 0902
           </a>
         </motion.div>
       </div>
