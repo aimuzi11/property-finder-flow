@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { X, Menu } from "lucide-react";
@@ -11,8 +10,8 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0 flex items-center">
-            <span className="text-realestate-navy text-xl font-bold">PropertyFinder</span>
-            <span className="text-realestate-gold font-bold">UAE</span>
+            <span className="text-realestate-navy text-xl font-bold">Proper</span>
+            <span className="text-realestate-gold font-bold">AI</span>
           </div>
           
           <div className="hidden md:block">
@@ -49,7 +48,6 @@ const Navbar = () => {
         </div>
       </div>
       
-      {/* Mobile menu */}
       {isMenuOpen && (
         <div className="md:hidden bg-white shadow-lg">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
